@@ -9,10 +9,10 @@
             "email": "ing.ezpinoza@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "0.0.1",
     "config": {
         "preferred-install": {
-            "*": "stable"
+            "*": "0.0.1"
         },
         "optimize-autoloader": true
     },
