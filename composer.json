@@ -9,9 +9,10 @@
             "email": "ing.ezpinoza@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "config": {
         "preferred-install": {
-            "*": "dist"
+            "*": "dev"
         },
         "optimize-autoloader": true
     },
