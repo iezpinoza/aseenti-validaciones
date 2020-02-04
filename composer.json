@@ -1,0 +1,12 @@
+{
+    "name": "aseenti/validaciones",
+    "description": "Validaciones para los proyectos de Aseenti",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Aseenti Development Team",
+            "email": "ing.ezpinoza@gmail.com"
+        }
+    ],
+    "require": {}
+}
