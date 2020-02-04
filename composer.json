@@ -9,6 +9,12 @@
             "email": "ing.ezpinoza@gmail.com"
         }
     ],
+    "config": {
+        "preferred-install": {
+            "*": "dist"
+        },
+        "optimize-autoloader": true
+    },
     "require": {
         "php": "^7.2",
         "laravel/framework": "6.*.*"
