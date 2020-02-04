@@ -2,6 +2,7 @@
     "name": "aseenti/validaciones",
     "description": "Validaciones para los proyectos de Aseenti",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Aseenti Development Team",
