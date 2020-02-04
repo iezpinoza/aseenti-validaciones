@@ -9,13 +9,7 @@
             "email": "ing.ezpinoza@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "config": {
-        "preferred-install": {
-            "*": "stable"
-        },
-        "optimize-autoloader": true
-    },
+    "minimum-stability": "dev",
     "require": {
         "php": "^7.2",
         "laravel/framework": "6.*.*"
