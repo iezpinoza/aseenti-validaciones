@@ -1,5 +1,5 @@
 {
-    "name": "aseenti/validaciones",
+    "name": "Aseenti/Validaciones",
     "description": "Validaciones para los proyectos de Aseenti",
     "type": "library",
     "authors": [
@@ -8,5 +8,13 @@
             "email": "ing.ezpinoza@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.2",
+        "laravel/framework": "6.*.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "aseenti\\validaciones\\": "src/"
+        }
+    }
 }
